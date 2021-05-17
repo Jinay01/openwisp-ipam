@@ -1,4 +1,4 @@
-# TODO: change this when next version of openwisp_users is released
+# TODO: change this when next version of openwisp-users is released
 openwisp-users @ https://github.com/openwisp/openwisp-users/tarball/master
 django>=3.0,<3.2
 swapper~=1.1
